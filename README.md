@@ -1,4 +1,4 @@
-# ClearRead — Web
+# DyslexiaReader — Web
 
 A dyslexia-friendly reading app for the web. Paste text or open a PDF and read it with full control over font, spacing, background colour, and accessibility tools.
 
